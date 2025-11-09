@@ -129,7 +129,7 @@ public class PetApplicationService
 private const string PubSubName = "pubsub";
 ```
 
----
+
 
 ✅ Repository Structure (from your /src directory)
 
@@ -149,5 +149,6 @@ src/
 
 🔥 Done! Run the services and test from Swagger!
 
+---
 
 
