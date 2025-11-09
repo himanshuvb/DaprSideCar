@@ -133,7 +133,7 @@ private const string PubSubName = "pubsub";
 
 ✅ Repository Structure (from your /src directory)
 
----sh
+---yaml
 src/
 ├── WisdomPetMedicine.Common               <-- Shared logic (DTOs / constants / events)
 ├── WisdomPetMedicine.Pet.Api              <-- Microservice: Pet (Publisher)
@@ -148,5 +148,6 @@ src/
 ---
 
 🔥 Done! Run the services and test from Swagger!
+
 
 
