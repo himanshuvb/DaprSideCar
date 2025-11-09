@@ -132,7 +132,7 @@ private const string PubSubName = "pubsub";
 ## ✅ Repository Structure (from your /src directory)
 
 
----txt
+```txt
 
 src/
 ├── WisdomPetMedicine.Common               <-- Shared logic (DTOs / constants / events)
@@ -145,12 +145,12 @@ src/
 ├── WisdomPetMedicine.Hospital.Domain      <-- Domain layer for Hospital service
 ├── WisdomPetMedicine.Hospital.Infrastructure <-- DB layer for hospital service
 └── WisdomPetMedicine.sln
-
----
+```
 
 🔥 Done! Run the services and test from Swagger!
 
 ---
+
 
 
 
